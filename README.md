@@ -160,8 +160,4 @@ Fullstack Developer | 1С Specialist
 * Email: [sky_1c@mail.ru](mailto:sky_1c@mail.ru)
 * Проект: [складъ.рус](https://складъ.рус)
 
----
 
-## Лицензия
-
-Проект распространяется по лицензии MIT.
